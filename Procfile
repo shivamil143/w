@@ -1,1 +1,1 @@
-web: python DEVA_DON.py
+web: python main.py
